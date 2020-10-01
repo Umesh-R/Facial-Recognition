@@ -1,0 +1,13 @@
+6th sem mini project
+
+Facial Recognition Program.
+
+-Its a python code that regocnises faces on live video.
+
+-Run the index.ipynb 
+
+-The dataset contains the all the saved face images.
+
+-While taking new test data ensure good lighting.
+
+For more details 
